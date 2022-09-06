@@ -1,0 +1,5 @@
+com\example\restservice\RestServiceApplication.class
+com\example\restservice\GreetingController.class
+com\example\restservice\Greeting.class
+com\example\restservice\CounterRepository.class
+com\example\restservice\Counter.class
